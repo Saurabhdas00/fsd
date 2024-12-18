@@ -1,0 +1,37 @@
+.state3-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .state3-button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .state3-button.increment {
+    background-color: lightgreen;
+  }
+  
+  .state3-button.decrement {
+    background-color: lightcoral;
+  }
+  
+  .state3-total {
+    font-size: 2em;
+  }
+  
+  .state3-fav-color {
+    color: green;
+  }
+  
+  .state3-color-button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: lightgray;
+  }
